@@ -1,2 +1,2 @@
-# TOJ-IKI-STO-N-BA-PESH
+# ToJ-IkI-StO-N-BA-PesH
 Normal day 
